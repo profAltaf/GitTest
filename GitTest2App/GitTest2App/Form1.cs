@@ -22,7 +22,7 @@ namespace GitTest2App
             // testing!
             
             // this is redtomatoes's entry!
-            MessageBox.Show ("this is messagebox by red tomatoes");
+            MessageBox.Show ("this is message box by red tomatoes");
         }
     }
 }
